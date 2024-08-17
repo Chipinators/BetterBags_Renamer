@@ -16,5 +16,5 @@ A BetterBags plugin that allows you to rename an existing category.
 <p align="center">
   <span><img src="https://github.com/user-attachments/assets/dd4e37ab-3df8-4db9-ba79-3fee25c510b7"></span>
   <br>
-  <i>Example import using the default separator " - "</i>
+  <i>About UI</i>
 </p>
