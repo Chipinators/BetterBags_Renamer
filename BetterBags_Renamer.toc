@@ -1,0 +1,15 @@
+## Interface: 110002
+
+## Title: BetterBags - Renamer
+## Notes: BetterBags plugin for renaming custom categories
+## Author: Chipinators
+## Version: @project-version@
+## X-Date: @project-date-iso@
+## X-License: MIT
+## X-Curse-Project-ID: 1085061
+## Dependencies: BetterBags
+
+# Locale
+locale\enUs.lua
+
+BetterBags_Renamer.lua

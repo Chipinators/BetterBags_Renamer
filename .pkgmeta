@@ -1,0 +1,4 @@
+package-as: BetterBags-Renamer
+
+required-dependencies:
+	- better-bags
