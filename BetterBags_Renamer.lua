@@ -1,5 +1,5 @@
-local VERSION_INFO = "1.0.0";
-local VERSION_DATE = 1723900152;
+local VERSION_INFO = "1.0.1";
+local VERSION_DATE = 1725368747;
 
 ---@diagnostic disable: missing-fields
 ---@class BetterBags: AceAddon

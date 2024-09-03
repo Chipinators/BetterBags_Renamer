@@ -9,7 +9,4 @@
 ## X-Curse-Project-ID: 1085061
 ## Dependencies: BetterBags
 
-# Locale
-locale\enUs.lua
-
 BetterBags_Renamer.lua
